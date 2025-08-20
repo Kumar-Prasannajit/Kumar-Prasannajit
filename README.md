@@ -32,8 +32,8 @@ Figma · Canva · Postman · IoT
 
 ## 🌟 Featured Projects
 
-- [NIPL Website]([https://github.com/Kumar-Prasannajit/NIPL](https://github.com/Kumar-Prasannajit/NIPL-Website.git)): Startup website for Navgyan Innovations Pvt Ltd.
-- [Summer KPS]([https://github.com/Kumar-Prasannajit/Summer-KPS](https://github.com/Kumar-Prasannajit/summer-kps.git)): Web app clones and more.
+- [NIPL Website](https://github.com/Kumar-Prasannajit/NIPL-Website.git): Startup website for Navgyan Innovations Pvt Ltd.
+- [Summer KPS](https://github.com/Kumar-Prasannajit/summer-kps.git): Web app clones and more.
 
 ---
 
