@@ -7,7 +7,6 @@
   <p>
     Final Year B.Tech ECE Student · MERN Stack Developer · GenAI Learner · BIRAC E-Yuva Fellow
   </p>
-  <img src="https://undraw.co/api/illustrations/svg?color=6C63FF&illustration=software_engineer" width="320px" alt="Software Engineer Illustration" />
 </div>
 
 ---
@@ -33,14 +32,8 @@ Figma · Canva · Postman · IoT
 
 ## 🌟 Featured Projects
 
-- [NIPL Website](https://github.com/Kumar-Prasannajit/NIPL): Startup website for Navgyan Innovations Pvt Ltd.
-- [Summer KPS](https://github.com/Kumar-Prasannajit/Summer-KPS): Web app clones and more.
-
----
-
-<div align="center">
-  <img src="https://undraw.co/api/illustrations/svg?color=6C63FF&illustration=code_review" width="270px" alt="Code Review Illustration" />
-</div>
+- [NIPL Website]([https://github.com/Kumar-Prasannajit/NIPL](https://github.com/Kumar-Prasannajit/NIPL-Website.git)): Startup website for Navgyan Innovations Pvt Ltd.
+- [Summer KPS]([https://github.com/Kumar-Prasannajit/Summer-KPS](https://github.com/Kumar-Prasannajit/summer-kps.git)): Web app clones and more.
 
 ---
 
@@ -72,10 +65,6 @@ My birthday is on October 13, which usually coincides with cyclone season in my 
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KumarPrasannajitSahu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kumar-prasannajit-sahu)
-
-<div align="center">
-  <img src="https://undraw.co/api/illustrations/svg?color=6C63FF&illustration=team_collaboration" width="270px" alt="Collaboration Illustration" />
-</div>
 
 ---
 
