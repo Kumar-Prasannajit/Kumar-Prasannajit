@@ -1,221 +1,147 @@
-<!-- ===========================
-     KUMAR PRASANNAJIT SAHU
-=========================== -->
-
-<h1 align="center">Hi 👋, I'm Kumar Prasannajit Sahu</h1>
-
-<h3 align="center">
-Backend-Focused Full Stack Developer | MERN Stack | AI-Powered Applications
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend-Focused+Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;AI+Powered+Product+Developer;OpenAI+%7C+Gemini+%7C+Claude+Integrations;Always+Building+Always+Learning" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kumar-Prasannajit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-# 🚀 About Me
-
-💻 Backend-Focused Full Stack Developer passionate about building scalable web applications and AI-powered products.
-
-🎯 Currently working as a Full Stack Developer Trainee.
-
-⚡ Experienced in:
-
-- REST API Design
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Payment Gateway Integrations
-- AI-Powered Applications
-- CI/CD Automation
-- MongoDB Database Design
-- Backend Architecture
-
-🌱 Currently Exploring:
-
-- Agentic AI Systems
-- Advanced Backend Engineering
-- System Design
-- Scalable Architectures
-
----
-
-# 💡 What I Build
-
-🔹 Full Stack Web Applications
-
-🔹 REST APIs & Backend Systems
-
-🔹 AI-Powered Products
-
-🔹 Chrome Extensions
-
-🔹 SaaS Platforms
-
-🔹 Enterprise Applications
-
-🔹 Payment Gateway Integrations
-
-🔹 Automation Workflows
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-### AI & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🕉️ Manima — Spiritual Services Marketplace
-
-- Multi-role Marketplace Platform
-- Razorpay Payment Integration
-- JWT Authentication
-- Booking Lifecycle Management
-- GitHub Actions CI/CD
-
----
-
-## 🤖 PromptBuddy — AI Prompt Engineering Chrome Extension
-
-- OpenAI Integration
-- Gemini Integration
-- Claude Integration
-- Voice-to-Prompt Feature
-- Cross-Device Synchronization
-
----
-
-## 🧪 Lab Equipment Booking System
-
-- Role-Based Access Control
-- Slot Conflict Detection
-- Cloudinary Integration
-- Multi-Level Approval Workflow
-
----
-
-# 🏆 Achievements
-
-🏅 Full Stack Developer Trainee
-
-🏅 Full Stack Developer Intern
-
-🏅 BIRAC E-Yuva Fellow
-
-🏅 Published Research Paper
-
-🏅 Built Production-Grade MERN Applications
-
-🏅 AI Product Development Experience
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kumar-Prasannajit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Prasannajit&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Prasannajit&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-Prasannajit&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🔥 Contribution Grid
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Kumar-Prasannajit" alt="Contribution Grid" />
-</p>
-
----
-
-# ⚡ Current Focus
-
-```txt
-Backend Engineering     ███████████████████░ 95%
-MERN Stack              ██████████████████░░ 90%
-System Design           ███████████████░░░░ 75%
-GenAI Integrations      █████████████████░░ 85%
-Agentic AI              ██████████████░░░░░ 70%
-```
-
-# 📚 Currently Learning
-
-- Advanced Backend Development
-- System Design
-- Agentic AI
-- AI Automation
-- Scalable Architectures
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/kumar-prasannajit-sahu">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:kumarprasannajitsahu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Kumar-Prasannajit">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Building scalable products, AI-powered applications, and preparing for Software Development Engineering opportunities.
-</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://c.tenor.com/0-CcJqjabIMAAAAC/tenor.gif"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center"><code>Hey, I'm Kumar.</code></h1>
+
+###
+
+<p data-importer="text" align="center"><code>I build beautiful UIs, scalable backends, and occasionally new problems for myself.</code></p>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://github.com/Kumar-Prasannajit" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=1A1B26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kumar-prasannajit-sahu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2F80ED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:kumarprasannajitsahu@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=3B4261&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/kumarprasannajit_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7AA2F7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<p data-importer="text" align="left">I'm a Full Stack Developer who enjoys building products from idea to deployment. I love creating beautiful user experiences on the frontend, designing scalable backend systems, and exploring how AI can make software smarter. My current focus is on Backend Development, Generative AI, and DevOps, with a goal of building reliable, production-ready applications that solve real-world problems. When I'm not coding, I'm usually learning something new, optimizing something that didn't need optimization, or turning coffee into commits.</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<h2 data-importer="text" align="left"><code>Tools & Technologies I Work With</code></h2>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="50" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left"><code>Experience</code></h2>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Junior Software Engineer</strong><br>
+      Aideas Tech Solutions Pvt. Ltd. · Hyderabad, India<br>
+      <sub>Sep 2025 - Present</sub>
+      <br><br>
+      Built 10+ reusable React components, improving cross-device consistency and reducing UI development time by 30%. Integrated 5+ REST APIs with async JavaScript, reducing average page-load latency by 40%.
+    </td>
+    <td valign="top" width="50%">
+      <strong>Full Stack Developer Intern</strong><br>
+      Navgyan Innovations Pvt. Ltd. · Gunupur, India<br>
+      <sub>Mar 2025 - Aug 2025</sub>
+      <br><br>
+      Developed and maintained three responsive web applications serving 200+ users. Introduced structured Git workflows for a five-member team, reducing merge conflicts by 60% and improving deployment efficiency.
+    </td>
+  </tr>
+</table>
+
+###
+
+<h2 data-importer="text" align="left"><code>Built With Passion & Deadlines:</code></h2>
+
+###
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://manimaonline.com">Manima Online</a></h3>
+      <p>A multi-role spiritual-services marketplace for administrators, clients, and agents, built to manage the complete service-booking lifecycle.</p>
+      <p><strong>Highlights:</strong> Secure Razorpay and QR/UPI payments with server-side validation, idempotent payment handling, and GitHub Actions CI/CD.</p>
+      <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, JWT, Razorpay</p>
+      <a href="https://manimaonline.com">Live platform</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/Kumar-Prasannajit/NIPL-Website">NIPL Website</a></h3>
+      <p>The official website for Navgyan Innovations Private Limited, designed to present the startup with an engaging and responsive web experience.</p>
+      <p><strong>Highlights:</strong> Interactive particle backgrounds, smooth scrolling, responsive layouts, and modern sliders/carousels.</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript, Particle.js, Lenis, Swiper.js</p>
+      <a href="https://kumar-prasannajit.github.io/NIPL-Website/">Live site</a> · <a href="https://github.com/Kumar-Prasannajit/NIPL-Website">Source code</a>
+    </td>
+  </tr>
+</table>
+
+###
+
+<h2 data-importer="text" align="left"><code>Consistency Tracker</code></h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Kumar-Prasannajit&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2&custom_title=Languages%20That%20Pay%20My%20Bills" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&custom_title=Proof%20I%20Wasn't%20Watching%20Netflix" height="300" alt="activity-graph graph"  />
+</div>
+
+###
