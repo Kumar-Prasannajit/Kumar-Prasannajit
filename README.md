@@ -33,11 +33,9 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/pacman-output/galaga-contribution-graph.svg?v=20260829" width="100%" alt="Galaga contribution graph" />
+</div>
 
 ###
 
@@ -140,7 +138,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&order=2&custom_title=Languages%20That%20Pay%20My%20Bills" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/languages-output/languages.svg?v=20260829" width="320" height="140" alt="Most-used languages" />
   <img src="https://raw.githubusercontent.com/Kumar-Prasannajit/Kumar-Prasannajit/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&custom_title=Proof%20I%20Wasn't%20Watching%20Netflix" height="300" alt="activity-graph graph"  />
 </div>
 
