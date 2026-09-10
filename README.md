@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/kumar-prasannajit-sahu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2F80ED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://kumarp.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=7AA2F7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="personal website"  />
+  </a>
   <a href="mailto:kumarprasannajitsahu@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=3B4261&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
